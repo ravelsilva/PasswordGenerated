@@ -25,7 +25,7 @@ To run the Password Generator locally, follow these steps:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd password-generator
+    cd Password Generate
     ```
 
 3. **Open `index.html` in your preferred web browser.**
