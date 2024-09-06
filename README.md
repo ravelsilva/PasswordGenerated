@@ -8,9 +8,12 @@ A simple and customizable password generator implemented with HTML, CSS, and Jav
 - **Password Length**: Set the length of the generated password (between 4 and 10 characters).
 - **Copy to Clipboard**: Easily copy the generated password to your clipboard.
 
-## Demo
+## Screenshot
 
-You can view a live demo of the Password Generator [here](#).
+![image](https://github.com/user-attachments/assets/274f3eaf-e7fc-4f55-8798-8b4782d85b33)
+![image](https://github.com/user-attachments/assets/bb9f5e1b-cbfd-4ddc-ab99-90b54df7d2c7)
+![image](https://github.com/user-attachments/assets/ad877765-16a1-4280-b10f-6e79aa8e4a13)
+
 
 ## Getting Started
 
