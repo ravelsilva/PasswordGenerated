@@ -50,6 +50,10 @@ li {
 	background-color: #ffffff;
 	border-radius: 5px;
 }
+label,
+input {
+	cursor: pointer;
+}
 input[type='checkbox'] {
 	transform: scale(1.3);
 }
@@ -61,7 +65,7 @@ input[type='number'] {
 }
 
 #generate {
-	margin-top: 30px;
+	margin-top: 35px;
 	padding: 15px 45px;
 	font-size: 25px;
 	font-weight: 500;
@@ -70,6 +74,12 @@ input[type='number'] {
 	border: none;
 	border-radius: 5px;
 	cursor: pointer;
+}
+#generate:hover {
+	transition: all 0.3s;
+	background-color: #ffffff;
+	color: #2790d6;
+	box-shadow: 0px 0px 5px #2790d6;
 }
 /* PASSWORD */
 .password {
@@ -103,7 +113,9 @@ input[type='number'] {
 	color: #0000005b;
 }
 
-.copyText{
-  cursor: pointer;
+.copyText {
+	cursor: pointer;
 }
-
+.copyText:hover {
+	color: black;
+}
