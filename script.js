@@ -42,10 +42,7 @@ const getPasswordSize = () => {
 
 const generatePassword = (size, charTypes) => {
 	let passwordGenerated = '';
-// Ensure that at least one character of each type is included
-charTypes.forEach(charType => {
-    passwordGenerated += randomCharFromType(charType);
-});
+	// Ensure that at least one character of each type is included
 
 	while (passwordGenerated.length < size) {
 		passwordGenerated += randomCharTypes(charTypes);
