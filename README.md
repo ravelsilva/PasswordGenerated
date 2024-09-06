@@ -67,5 +67,5 @@ Feel free to submit issues or pull requests to improve this project. Contributio
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to [contatoravelsilva@gmail.com](mailto:contatoravelsilva@gmail.com).
 
